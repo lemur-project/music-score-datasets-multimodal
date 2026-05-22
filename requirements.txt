@@ -1,0 +1,12 @@
+fire
+cairosvg
+pydub
+pymupdf
+requests
+urllib3
+verovio
+pandas
+tqdm
+opencv-python
+unidecode
+converter21

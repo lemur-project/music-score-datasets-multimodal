@@ -1,0 +1,11 @@
+label,count_train,count_val,count_test,total_count
+Orchestra,718,90,90,898
+Solo,465,58,59,582
+Quartet,156,20,19,195
+Concerto,143,18,18,179
+Duo,65,8,8,81
+Trio,46,6,6,58
+"Orchestra, Choir, Vocal",26,3,4,33
+Quintet,15,2,1,18
+"Orchestra, Vocal",10,1,1,12
+Septet,8,1,1,10

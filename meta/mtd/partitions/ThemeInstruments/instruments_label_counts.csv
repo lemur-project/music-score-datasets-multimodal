@@ -1,0 +1,14 @@
+label,count_train,count_val,count_test,total_count
+Violin,458,57,58,573
+Piano,452,56,57,565
+Orchestra,381,47,48,476
+Harpsichord,85,10,11,106
+Oboe,56,7,7,70
+Flute,40,5,5,50
+Cello,39,5,5,49
+Clarinet,34,5,4,43
+Trumpet,14,2,1,17
+Horn,13,2,1,16
+Bassoon,10,1,1,12
+Guitar,10,1,1,12
+"Violin, Piano",6,1,1,8

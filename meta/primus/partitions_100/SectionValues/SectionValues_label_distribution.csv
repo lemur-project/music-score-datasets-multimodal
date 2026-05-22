@@ -1,0 +1,101 @@
+label,count_train,count_val,count_test,total_count
+Operas,1577,197,197,1971
+Sacred songs,1056,132,132,1320
+Songs,826,103,103,1032
+Sonatas,587,73,74,734
+Masses,415,52,52,519
+Oratorios,413,51,52,516
+Concertos,393,49,49,491
+Symphonies,368,46,46,460
+Cantatas,348,43,44,435
+Trio sonatas,338,42,42,422
+Psalms,332,41,42,415
+Instrumental pieces,314,39,40,393
+Keyboard pieces,314,39,39,392
+Arias (voc.),285,35,36,356
+Partsongs,265,33,33,331
+Minuets,244,30,31,305
+Quartets (inst.),242,30,30,302
+Duets (voc.),238,29,30,297
+Lieder,218,27,28,273
+Chorale arrangements,205,25,26,256
+Suites,190,24,24,238
+Airs (voc.),177,22,22,221
+Dances,175,22,22,219
+Marches,174,21,22,217
+Duets (inst.),158,19,20,197
+Villancicos,148,18,19,185
+Chorales,146,18,19,183
+Hymns,132,16,17,165
+Madrigals,132,16,17,165
+Motets,125,15,16,156
+Singspiele,113,14,14,141
+Waltzes,107,13,14,134
+Responsories,104,13,13,130
+Trios (inst.),102,12,13,127
+Canons (voc.),95,12,12,119
+Anthems,94,12,12,118
+Fugues (inst.),94,11,12,117
+Preludes,88,11,11,110
+Solfeggios (inst./voc.),87,11,11,109
+Tragédies lyriques,84,10,11,105
+Sacred concerts (voc.),83,10,11,104
+Variations,63,8,8,79
+Contredanses,62,8,8,78
+Catches,56,7,7,70
+Ballets,54,7,7,68
+Passions,54,7,7,68
+Canticles,54,7,7,68
+"Masses (cantus firmus-, paraphrase-, parody masses)",52,6,7,65
+Canzonettas,51,6,7,64
+Polonaises,50,6,6,62
+Concerti grossi,49,6,6,61
+Versets (inst.),47,6,6,59
+Requiems,46,6,6,58
+Allemandes,46,6,6,58
+Sequences,46,6,6,58
+Quintets (inst.),45,5,6,56
+Folk songs,42,5,6,53
+Divertimentos,42,5,5,52
+Table entertainments,41,5,5,51
+Courantes,39,5,5,49
+Chansons,38,5,5,48
+Litanies,38,5,5,48
+Glees,35,4,5,44
+Gigues,35,5,4,44
+Reels,34,4,5,43
+Incidental music,34,4,4,42
+Toccatas,33,4,4,41
+Intermezzos (stage),31,4,4,39
+Airs (inst.),31,4,4,39
+Vespers,31,4,4,39
+Sarabandes,30,4,3,37
+Farse,29,4,3,36
+Strathspeys,28,4,3,35
+Quadrilles,28,4,3,35
+Romances (voc.),27,4,3,34
+Stage music,26,4,3,33
+Antiphons,25,3,3,31
+Gavottes,25,3,3,31
+Rondos (inst.),24,3,3,30
+Fantasies,22,3,3,28
+Terzets (voc.),22,3,3,28
+Inventions,22,3,3,28
+Exercises (inst.),22,3,2,27
+Overtures,22,3,2,27
+Canzoni (voc.),21,3,2,26
+Exercises (voc.),20,3,2,25
+Ländler,18,3,2,23
+Offertories,18,2,2,22
+Rondos (voc.),18,2,2,22
+Fanfares,17,2,2,21
+Odes,16,2,2,20
+Galops,15,2,2,19
+Partitas,15,2,2,19
+Anglaises,15,2,2,19
+Cotillions,15,2,2,19
+Cavatinas,14,2,2,18
+Airs (dances),14,2,2,18
+Herrnhut chorales,14,2,1,17
+Recitatives,13,2,1,16
+Capriccios (inst.),12,2,1,15

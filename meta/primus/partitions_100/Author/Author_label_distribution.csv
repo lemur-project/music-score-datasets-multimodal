@@ -1,0 +1,101 @@
+label,count_train,count_val,count_test,total_count
+"Haydn, Joseph (1732-1809)",349,44,44,437
+"Bach, Johann Sebastian (1685-1750)",230,29,29,288
+"Händel, Georg Friedrich (1685-1759)",213,27,27,267
+"Schneider, Friedrich (1786-1853)",209,26,26,261
+"Telemann, Georg Philipp (1681-1767)",188,24,23,235
+"Hasse, Johann Adolf (1699-1783)",147,18,19,184
+"Mozart, Wolfgang Amadeus (1756-1791)",139,17,18,174
+"Bergt, Christian Gottlob August (1771-1837)",135,17,17,169
+"Lully, Jean-Baptiste (1632-1687)",127,16,16,159
+"Paisiello, Giovanni (1740-1816)",125,16,16,157
+"Gregor, Christian Friedrich (1723-1801)",113,14,14,141
+"Roman, Johan Helmich (1694-1758)",111,14,14,139
+"Cimarosa, Domenico (1749-1801)",109,14,14,137
+"Homilius, Gottfried August (1714-1785)",89,11,11,111
+"Graun, Carl Heinrich (1704-1759)",86,11,11,108
+"Perez, Davide (1711-1778)",81,10,11,102
+"Martini, Giovanni Battista (1706-1784)",80,10,10,100
+"Corelli, Arcangelo (1653-1713)",80,10,10,100
+"Fasch, Johann Friedrich (1688-1758)",78,10,10,98
+"Tartini, Giuseppe (1692-1770)",77,10,10,97
+"Geisler, Johann Christian (1729-1815)",77,9,10,96
+"Bach, Carl Philipp Emanuel (1714-1788)",76,10,9,95
+"Naumann, Johann Gottlieb (1741-1801)",74,9,10,93
+"Jommelli, Niccolò (1714-1774)",72,9,9,90
+"Valls, Francisco (1671c-1747)",71,9,9,89
+"Herbst, Johannes (1735-1812)",68,9,8,85
+"Dittersdorf, Carl Ditters von (1739-1799)",68,8,9,85
+Compilations,67,9,8,84
+"Rolle, Johann Heinrich (1716-1785)",66,8,9,83
+"Dibdin, Charles (1745-1814)",62,8,8,78
+"Pleyel, Ignace (1757-1831)",62,8,8,78
+"Pergolesi, Giovanni Battista (1710-1736)",61,7,8,76
+"Schulz, Johann Abraham Peter (1747-1800)",59,7,8,74
+"Weinlig, Christian Ehregott (1743-1813)",58,7,8,73
+"Scarlatti, Alessandro (1660-1725)",58,7,8,73
+"Marcello, Benedetto (1686-1739)",57,7,8,72
+"Guglielmi, Pietro Alessandro (1728-1804)",57,7,7,71
+"Sacchini, Antonio (1730-1786)",56,7,7,70
+"Bononcini, Giovanni (1670-1747)",55,7,7,69
+"Irízar y Domenzain, Miguel de (1635-1684)",54,7,7,68
+"Vivaldi, Antonio (1678-1741)",53,7,6,66
+"Galuppi, Baldassare (1706-1785)",53,7,6,66
+"Schuster, Joseph (1748-1812)",51,6,7,64
+"Caldara, Antonio (1670c-1736)",50,6,7,63
+"Ritter, Peter (1763-1846)",48,6,6,60
+"Jaeschke, Christian David (1755-1827)",47,6,6,59
+"Vanhal, Johann Baptist (1739-1813)",45,6,6,57
+"Greiss, Jakob Friedrich (1720c-1768p)",45,6,5,56
+"Weiske, Johann Gottfried (1745-1806)",45,6,5,56
+"Piccinni, Niccolò (1728-1800)",43,6,5,54
+"Panerai, Vincenzo (18.sc)",43,6,5,54
+"Reichardt, Johann Friedrich (1752-1814)",42,6,5,53
+"Mayr, Johann Simon (1763-1845)",42,5,6,53
+"Grønland, Peter (1761-1825)",41,6,5,52
+"Palestrina, Giovanni Pierluigi da (1525-1594)",41,5,6,52
+"Leo, Leonardo (1694-1744)",41,5,5,51
+"Zingarelli, Niccolò Antonio (1752-1837)",40,5,5,50
+"Freydt, Johann Ludwig (1748-1807)",39,5,5,49
+"Gluck, Christoph Willibald (1714-1787)",38,5,5,48
+"Purcell, Henry (1659-1695)",38,5,5,48
+"Boccherini, Luigi (1743-1805)",37,5,5,47
+"Vinci, Leonardo (1696c-1730)",37,4,5,46
+"Anfossi, Pasquale (1727-1797)",37,5,4,46
+"Kittel, Johann Christian (1732-1809)",35,5,4,44
+"Bianchi, Francesco (1752c-1810)",33,4,5,42
+"Morlacchi, Francesco (1784-1841)",33,5,4,42
+"Paër, Ferdinando (1771-1839)",33,4,5,42
+"Fioravanti, Valentino (1764-1837)",33,4,4,41
+"Locke, Matthew (1622c-1677)",33,4,4,41
+"Salieri, Antonio (1750-1825)",32,4,4,40
+"Geminiani, Francesco (1687-1762)",32,4,4,40
+"Conti, Francesco Bartolomeo (1681c-1732)",32,4,4,40
+"Himmel, Friedrich Heinrich (1765-1814)",32,4,4,40
+"Fux, Johann Joseph (1660-1741)",32,4,4,40
+"Koželuh, Leopold (1747-1818)",31,4,4,39
+"Favier, Alessandro (18.sc)",31,4,4,39
+"Rosetti, Antonio (1750c-1792)",31,4,4,39
+"Zumsteeg, Johann Rudolf (1760-1802)",30,4,4,38
+"Cherubini, Luigi (1760-1842)",30,4,4,38
+"Gebhard, Johann Gottfried (1755-1794)",29,4,4,37
+"Rossini, Gioachino (1792-1868)",29,4,4,37
+"Giorgi, Giovanni (1762 )",29,4,4,37
+"Schicht, Johann Gottfried (1753-1823)",29,4,4,37
+"Doles, Johann Friedrich (1715-1797)",29,4,4,37
+"Heinichen, Johann David (1683-1729)",29,4,3,36
+"Lasso, Orlando di (1532c-1594)",28,4,3,35
+"Lawes, Henry (1596-1662)",28,4,3,35
+"Porpora, Nicola (1686-1768)",28,3,4,35
+"Albinoni, Tomaso (1671-1751)",28,3,4,35
+"Clari, Giovanni Carlo Maria (1677-1754)",28,3,4,35
+"Sarti, Giuseppe (1729-1802)",27,3,4,34
+"Rinck, Johann Christian Heinrich (1770-1846)",27,4,3,34
+"Besozzi, Alessandro (1702-1793)",26,4,3,33
+"Grimm, Daniel Johann (1717-1760)",26,4,3,33
+"Mendelssohn Bartholdy, Felix (1809-1847)",26,3,4,33
+"Tag, Christian Gotthilf (1735-1811)",26,4,3,33
+"Quantz, Johann Joachim (1697-1773)",26,3,4,33
+"Reichard, Heinrich Gottfried (1742-1801)",25,4,3,32
+"Hook, James (1746-1827)",25,3,4,32
+"Hering, Karl Eduard (1807-1879)",25,4,3,32
